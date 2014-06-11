@@ -1,5 +1,6 @@
 {
   "require": {
-    "mattzuba/php-trello": "*"
+    "mattzuba/php-trello": "*",
+	"php": "~5.5.12"
   }
 }
